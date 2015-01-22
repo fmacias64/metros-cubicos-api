@@ -1,0 +1,257 @@
+{
+  "suggestions": {
+    "0": {
+      "id": "10351",
+      "label": "Col. Santa Fe, Alvaro Obregón, Distrito Federal",
+      "type": "neighborhood"
+    },
+    "1": {
+      "id": "1000006",
+      "label": "Zona Santa Fe , Distrito Federal",
+      "type": "zone"
+    },
+    "2": {
+      "id": "10093",
+      "label": "Col. Bosques De Santa Fe, Alvaro Obregón, Distrito Federal",
+      "type": "neighborhood"
+    },
+    "3": {
+      "id": "10131",
+      "label": "Col. Desarrollo Santa Fe, Alvaro Obregón, Distrito Federal",
+      "type": "neighborhood"
+    },
+    "4": {
+      "id": "10250",
+      "label": "Col. Lomas De Santa Fe, Alvaro Obregón, Distrito Federal",
+      "type": "neighborhood"
+    },
+    "5": {
+      "id": "10387",
+      "label": "Col. Unidad Santa Fe IMSS, Alvaro Obregón, Distrito Federal",
+      "type": "neighborhood"
+    },
+    "6": {
+      "id": "10388",
+      "label": "Col. Unidad Santa Fé Infonavit, Alvaro Obregón, Distrito Federal",
+      "type": "neighborhood"
+    },
+    "7": {
+      "id": "10765",
+      "label": "Col. Desarrollo Santa Fe, Cuajimalpa De Morelos, Distrito Federal",
+      "type": "neighborhood"
+    },
+    "8": {
+      "id": "56680",
+      "label": "Col. Peña Blanca Santa Fe, Alvaro Obregón, Distrito Federal",
+      "type": "neighborhood"
+    },
+    "9": {
+      "id": "57846",
+      "label": "Col. Cumbres de Sta. Fe, Cuajimalpa De Morelos, Distrito Federal",
+      "type": "neighborhood"
+    },
+    "10": {
+      "id": "58095",
+      "label": "Col. Lomas De Sta. Fe, Cuajimalpa De Morelos, Distrito Federal",
+      "type": "neighborhood"
+    },
+    "11": {
+      "id": "58936",
+      "label": "Col. Santa Fe Cuajimalpa, Cuajimalpa De Morelos, Distrito Federal",
+      "type": "neighborhood"
+    },
+    "12": {
+      "id": "99915",
+      "label": "Col. Santa Fe IMSS, Alvaro Obregón, Distrito Federal",
+      "type": "neighborhood"
+    },
+    "13": {
+      "id": "116100",
+      "label": "Col. Bosques de Santa Fe, Cuajimalpa De Morelos, Distrito Federal",
+      "type": "neighborhood"
+    },
+    "14": {
+      "id": "6533",
+      "label": "Col. Santa Fe, Delicias, Chihuahua",
+      "type": "neighborhood"
+    },
+    "15": {
+      "id": "7410",
+      "label": "Col. Santa Fe, Juárez, Chihuahua",
+      "type": "neighborhood"
+    },
+    "16": {
+      "id": "9341",
+      "label": "Col. Santa Fe, Sierra Mojada, Coahuila",
+      "type": "neighborhood"
+    },
+    "17": {
+      "id": "9535",
+      "label": "Col. Santa Fe, Torreón, Coahuila",
+      "type": "neighborhood"
+    },
+    "18": {
+      "id": "12860",
+      "label": "Col. Santa Fe, Durango, Durango",
+      "type": "neighborhood"
+    },
+    "19": {
+      "id": "19893",
+      "label": "Col. Santa Fe, Irapuato, Guanajuato",
+      "type": "neighborhood"
+    },
+    "20": {
+      "id": "20707",
+      "label": "Col. Santa Fe, León, Guanajuato",
+      "type": "neighborhood"
+    },
+    "21": {
+      "id": "14091",
+      "label": "Col. Santa Fe, Tamazula, Durango",
+      "type": "neighborhood"
+    },
+    "22": {
+      "id": "23268",
+      "label": "Col. Santa Fe, Chilpancingo De Los Bravo, Guerrero",
+      "type": "neighborhood"
+    },
+    "23": {
+      "id": "21550",
+      "label": "Col. Santa Fe, San Francisco Del Rincón, Guanajuato",
+      "type": "neighborhood"
+    },
+    "24": {
+      "id": "22682",
+      "label": "Col. Santa Fe, Ajuchitlán Del Progreso, Guerrero",
+      "type": "neighborhood"
+    },
+    "25": {
+      "id": "24351",
+      "label": "Col. Santa Fe, Quechultenango, Guerrero",
+      "type": "neighborhood"
+    },
+    "26": {
+      "id": "777",
+      "label": "Col. Santa Fe, Rincón De Romos, Aguascalientes",
+      "type": "neighborhood"
+    },
+    "27": {
+      "id": "2267",
+      "label": "Col. Santa Fe, Tijuana, Baja California",
+      "type": "neighborhood"
+    },
+    "28": {
+      "id": "30747",
+      "label": "Col. Santa Fe, Huaniqueo, Michoacán",
+      "type": "neighborhood"
+    },
+    "29": {
+      "id": "31019",
+      "label": "Col. Santa Fe, La Piedad, Michoacán",
+      "type": "neighborhood"
+    },
+    "30": {
+      "id": "29899",
+      "label": "Col. Santa Fe, Zapopan, Jalisco",
+      "type": "neighborhood"
+    },
+    "31": {
+      "id": "30034",
+      "label": "Col. Santa Fe, Zapotlanejo, Jalisco",
+      "type": "neighborhood"
+    },
+    "32": {
+      "id": "33784",
+      "label": "Col. Santa Fe, Jala, Nayarit",
+      "type": "neighborhood"
+    },
+    "33": {
+      "id": "33827",
+      "label": "Col. Santa Fe, Rosamorada, Nayarit",
+      "type": "neighborhood"
+    },
+    "34": {
+      "id": "34277",
+      "label": "Col. Santa Fe, Tepic, Nayarit",
+      "type": "neighborhood"
+    },
+    "35": {
+      "id": "36037",
+      "label": "Col. Santa Fe, Monterrey, Nuevo León",
+      "type": "neighborhood"
+    },
+    "36": {
+      "id": "34591",
+      "label": "Col. Santa Fe, Cadereyta Jiménez, Nuevo León",
+      "type": "neighborhood"
+    },
+    "37": {
+      "id": "34794",
+      "label": "Col. Santa Fe, Galeana, Nuevo León",
+      "type": "neighborhood"
+    },
+    "38": {
+      "id": "46847",
+      "label": "Col. Santa Fe, Navolato, Sinaloa",
+      "type": "neighborhood"
+    },
+    "39": {
+      "id": "36781",
+      "label": "Col. Santa Fe, Villaldama, Nuevo León",
+      "type": "neighborhood"
+    },
+    "40": {
+      "id": "38103",
+      "label": "Col. Santa Fe, San Juan Bautista Tuxtepec, Oaxaca",
+      "type": "neighborhood"
+    },
+    "41": {
+      "id": "57265",
+      "label": "Col. Santa Fe, Puebla, Puebla",
+      "type": "neighborhood"
+    },
+    "42": {
+      "id": "54133",
+      "label": "Col. Santa Fe, Tempoal, Veracruz",
+      "type": "neighborhood"
+    },
+    "43": {
+      "id": "54515",
+      "label": "Col. Santa Fe, Veracruz, Veracruz",
+      "type": "neighborhood"
+    },
+    "44": {
+      "id": "58639",
+      "label": "Col. Santa Fe, La Paz, Baja California Sur",
+      "type": "neighborhood"
+    },
+    "45": {
+      "id": "58728",
+      "label": "Col. Santa Fe, Zumpango, Estado De México",
+      "type": "neighborhood"
+    },
+    "46": {
+      "id": "50455",
+      "label": "Col. Santa Fe, Reynosa, Tamaulipas",
+      "type": "neighborhood"
+    },
+    "47": {
+      "id": "43527",
+      "label": "Col. Santa Fe, Querétaro, Querétaro",
+      "type": "neighborhood"
+    },
+    "48": {
+      "id": "61389",
+      "label": "Col. Santa Fe, Ramos Arizpe, Coahuila",
+      "type": "neighborhood"
+    },
+    "49": {
+      "id": "62172",
+      "label": "Col. Santa Fe, Chiapa De Corzo, Chiapas",
+      "type": "neighborhood"
+    }
+  },
+  "version": "4.4",
+  "query": "santa fe",
+  "Cache": "true"
+}

@@ -1,0 +1,27 @@
+API Metros Cúbicos
+==================
+
+API no oficial para buscar propiedades en venta y renta de Metros Cúbicos
+
+http://m.metroscubicos.com/proxy.php
+
+| Parámetro              | Valor      |
+|------------------------|------------|
+| do                     | properties |
+| params[propertyOp]     | 2          |
+| params[propertyType]   | 8          |
+| params[bathrooms]      | 0          |
+| params[cars]           | 0          |
+| params[development]    | 0          |
+| params[rooms]          | 0          |
+| params[m2cons]         | 0          |
+| params[order]          | asc        |
+| params[sort]           | pesosPrice |
+| params[state]          | 10058      |
+| params[limit]          | 15         |
+| params[start]          | 0          |
+| params[reduceResponse] | true       |
+| params[pesosPrice]     | 1          |
+| method                 | GET        |
+
+
